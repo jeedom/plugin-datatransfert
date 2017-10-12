@@ -24,7 +24,7 @@ image:datatrasnfert_dropbox05.png[width=80,role="img-thumbnail"] : rendre actif 
 {nbsp} +
 image:datatrasnfert_dropbox06.png[width=80,role="img-thumbnail"] : rendre visible l'équipement (*Oui*/Non)
 {nbsp} +
-Choisir votre protocol : dropbox/ftp/*local*/sftp/webdav
+Choisir votre protocole : dropbox/ftp/*local*/sftp/webdav
 |===
 
 
