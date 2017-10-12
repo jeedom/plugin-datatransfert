@@ -24,7 +24,7 @@ Vérifier ces paramètres avec un client de type FileZilla (https://filezilla-pr
 
 [options="header,autowidth",role="text-justify"]
 |===
-|Configuration du plugin |Choix du protocol
+|Configuration du plugin |Choix du protocole
 |image:datatrasnfert_ftp01.png[role="related thumb left",width=400]
 |*Nom de l'équipement Data transfert* : nommer ou renommer votre équipement
 {nbsp} +
