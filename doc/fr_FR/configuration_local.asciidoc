@@ -14,7 +14,7 @@ Il n'y a pas de prérequis pour la mise en place du Data Transfert local. Néanm
 
 [options="header,autowidth",role="text-justify"]
 |===
-|Configuration du plugin |Choix du protocol
+|Configuration du plugin |Choix du protocole
 |image:datatrasnfert_local01.png[role="related thumb left",width=400]
 |Nom de l'équipement Data transfert : nommer ou renommer votre équipement
 {nbsp} +
