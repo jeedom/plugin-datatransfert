@@ -46,7 +46,7 @@ Générer votre token *Generated access token* (information nécessaire dans la 
 
 [options="header,autowidth",role="text-justify"]
 |===
-|Configuration du plugin |Choix du protocol
+|Configuration du plugin |Choix du protocole
 |image:datatrasnfert_dropbox04.png[role="related thumb left",width=400]
 |Nom de l'équipement Data transfert : nommer ou renommer votre équipement.
 {nbsp} +
