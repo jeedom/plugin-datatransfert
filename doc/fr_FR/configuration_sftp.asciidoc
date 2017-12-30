@@ -3,22 +3,22 @@
 :linkattrs:
 
 
-=== Local
+=== SFTP
 
 ==== Prérequis
 
-Il n'y a pas de prérequis pour la mise en place du Data Transfert en sftp.
+Il n'y a pas de prérequis pour la mise en place du Data Transfert en SFTP.
 {nbsp} +
-Vérifier néanmoins le bon fonctionnement du sftp en vous connectant à partir de votre jeedom en effectuant la commande suivante :
+Vérifier néanmoins le bon fonctionnement du SFTP en vous connectant à partir de votre jeedom en effectuant la commande suivante :
 {nbsp} +
 sftp utilisateur@serveur (ex sftp jeedom@192.168.0.100).
 
 
-==== Configuration du plugin / sftp
+==== Configuration du plugin / SFTP
 
 [options="header,autowidth",role="text-justify"]
 |===
-|Configuration du plugin |Choix du protocol
+|Configuration du plugin |Choix du protocole
 |image:datatrasnfert_sftp01.png[role="related thumb left",width=400]
 |Nom de l'équipement Data transfert : nommer ou renommer votre équipement
 {nbsp} +
@@ -28,20 +28,20 @@ image:datatrasnfert_dropbox05.png[width=80,role="img-thumbnail"] : rendre actif 
 {nbsp} +
 image:datatrasnfert_dropbox06.png[width=80,role="img-thumbnail"] : rendre visible l'équipement (*Oui*/Non)
 {nbsp} +
-Choisir votre protocol : dropbox/ftp/local/*sftp*/webdav
+Choisir votre protocole : dropbox/ftp/local/*sftp*/webdav
 |===
 
 [options="header,autowidth",role="text-justify"]
 |===
-|Configuration du plugin |Paramêtres sftp
+|Configuration du plugin |Paramêtres SFTP
 |image:datatrasnfert_sftp03.png[role="related thumb left",width=400]
-|*Serveur* : spécifier le nom DNS ou l'adresse IP de votre serveur sftp.
+|*Serveur* : spécifier le nom DNS ou l'adresse IP de votre serveur SFTP.
 {nbsp} +
-*Port* : spécifier le port sftp de connexion. 22 port sftp par défaut.
+*Port* : spécifier le port SFTP de connexion. 22 port SFTP par défaut.
 {nbsp} +
-*Nom de l'uilisateur* : spécifier le nom de l'utilisateur sftp utilisé pour la connexion. Utiliser un compte spécifique avec les droits nécessires (droits d'écriture dans le dossier cible du serveur sftp)
+*Nom de l'uilisateur* : spécifier le nom de l'utilisateur SFTP utilisé pour la connexion. Utiliser un compte spécifique avec les droits nécessaires (droits d'écriture dans le dossier cible du serveur SFTP)
 {nbsp} +
-*Mot de passe* : mot de passe de votre utilisateur sftp.
+*Mot de passe* : mot de passe de votre utilisateur SFTP.
 {nbsp} +
 |===
 
