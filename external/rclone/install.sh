@@ -24,7 +24,7 @@ case `uname -m` in
 	;;
 esac
 rm -rf rclone-$VERSION-linux-$PLATFORM.zip rclone-$VERSION-linux-$PLATFORM
-wget https://downloads.rclone.org/rclone-$VERSION-linux-$PLATFORM.zip
+wget https://downloads.rclone.org/$VERSION/rclone-$VERSION-linux-$PLATFORM.zip
 unzip rclone-$VERSION-linux-$PLATFORM.zip
 mv rclone-$VERSION-linux-$PLATFORM/rclone .
 rm -rf rclone-$VERSION-linux-$PLATFORM.zip rclone-$VERSION-linux-$PLATFORM
